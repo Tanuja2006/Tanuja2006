@@ -27,6 +27,3 @@ I enjoy exploring backend development, APIs, and full-stack projects while learn
 ## How to reach me?
 - Email: tanujakamisetty2006@gmail.com
 - LinkedIn: https://www.linkedin.com/in/tanuja-kamisetty/ 
-
-- ⚡ Fun fact: ...
--->
